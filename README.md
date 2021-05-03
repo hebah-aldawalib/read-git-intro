@@ -1,21 +1,20 @@
-# README.md
 
 
-**A growth mindset** : is  that is  abilities can be developed through through studing and hard work.
+**INTRO**
+
+I am hebah , 32 year , i am intersting to studying this coruse .
 
 
-I think i can keep my self in growth mindset by following this sample _rule_:
-
-1. **Make** a new goal for every goal completed.
-2. **Try** different learning way.
-3. **Learn** from other people’s mistakes.
 
 
-My name hebah al dawalieb , 32 year , i have BSc. genetic engineering, my brather tell me about software developer it is a interesting work and i can make a lot of money     so i am so excited to learn the programming .
 
-this is my github [linke](https://github.com/hebah-aldawalib) 
 
-# hello world
+| assigenment       | linke     |  
+| :------------- | :----------: | 
+| read.md        |   [linke](https://github.com/hebah-aldawalib/reading-_notes/blob/main/README.md)           |
+| reading-notes2 |[linke](https://github.com/hebah-aldawalib/reading-notes-2.git)  |
+|                |               |
+ 
 
 
 
