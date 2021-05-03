@@ -9,11 +9,11 @@ I am hebah , 32 year , i am intersting to studying this coruse .
 
 
 
-| assigenment       | linke     |  
+| assigenment       | link     |  
 | :------------- | :----------: | 
-| read.md        |   [linke](https://github.com/hebah-aldawalib/reading-_notes/blob/main/README.md)           |
-| reading-notes2 |[linke](https://github.com/hebah-aldawalib/reading-notes-2.git)  |
-|                |               |
+| read.md        |   [link](read.md)           |
+| reading-notes2 |[link](reading-notes2)  |
+|   read-git-intro             |   [link](read-git-intro.md)            |
  
 
 
