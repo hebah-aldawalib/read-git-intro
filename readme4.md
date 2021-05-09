@@ -16,8 +16,8 @@
 
       There is something called  loops .
 
-     
-       **Loops** : is a quick and easy way to do something repeatedly.
+      Loops : is a quick and easy way to do something repeatedly.
+
 
       There are many different kinds of loops; but we will learne two of them :
 
