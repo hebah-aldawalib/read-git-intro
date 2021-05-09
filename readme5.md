@@ -13,3 +13,5 @@ The code to be executed, by the function, is placed inside curly brackets: {}
 
 **Why Functions?**
 You can use the same code many times with different arguments, to produce different results.
+
+
