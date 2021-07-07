@@ -13,7 +13,7 @@
    _**note**_ : imge tag is self closing .
 
 
-   ex.  <img src="images/logo.gif" alt="From A to Zucchini" />
+   ex.  <img src="images/logo.gif" alt="name of imge" />
 
 
 
@@ -32,7 +32,7 @@
  DarkCyan
  
  </ol>
- 
+
 
 
 
