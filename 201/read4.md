@@ -13,7 +13,7 @@
    _**note**_ : imge tag is self closing .
 
 
-   ex.  <img src="images/logo.gif" alt="name of imge" />
+   ex.  < img src="images adrees" alt="name of imge" />
 
 
 
