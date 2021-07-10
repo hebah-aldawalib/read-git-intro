@@ -1,9 +1,11 @@
 # Functions:
-<ul> 
+<ul>
+ 
 <il>Functions let you group a series of statements together to perform a
 specific task<il>
 <il>Functions can take parameters (informatiorJ required
 to do their job) and may return a value</il>
+
 </ul>
 
 
