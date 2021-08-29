@@ -40,9 +40,10 @@ I am hebah , 32 year , i am intersting to studying this coruse .
 
 # table of contant Code 301 - Intermediate Software Development
 
-| assigenment              | link     |  
-| :-------------           | :----------: | 
-
+| assigenment               | link                                  |  
+| :-------------           | :----------:                           | 
+| read1                    | [link](./301/read1.md)                 |
+|  read2                   | [link](./301/read2.md)                 |
 
 
 # table of contant Code 401 - Advanced Software Development
